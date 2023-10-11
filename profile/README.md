@@ -1,4 +1,4 @@
-<center><img src="https://media.licdn.com/dms/image/D4E3DAQEYFygSXt3-3w/image-scale_127_750/0/1695892402718/_technolgies_cover?e=1697018400&v=beta&t=xWGN_5MYmC84v8rDrAJ9y48x-lBMkHT53YktbDWsPNs"></center>
+<center><img src="https://raw.githubusercontent.com/PI-Technologies-Budapest/.github/main/profile/croped%20Facebook%20Cover%20(1)%20(1).png"></center>
 
 # *π Technologies is an innovative startup which create precise intelligent stages*
 
