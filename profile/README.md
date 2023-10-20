@@ -1,12 +1,13 @@
 <center><img src="https://raw.githubusercontent.com/PI-Technologies-Budapest/.github/main/profile/croped%20Facebook%20Cover%20(1)%20(1).png"></center>
 
-# *π Technologies is an innovative startup which create precise intelligent stages*
+# *π Technologies is an innovative startup that creates precise intelligent stages*
 
-> The π stage is a multipurpose precise, intelligent stage. Our stages can be controlled over USB cable with a serial communication API, or with our innovative UI app. You can get it as a preassembled tool, or you can assemble it yourself based on our description and you can integrate it into any kind of laboratory or workshop environment. It’s ideal for microscope, optical laboratory, manufacturing, DIY labs, etc.
+> The π stage is a multipurpose precise, intelligent stage. Our stages can be controlled over a USB cable with a serial communication API, or with our innovative UI app. You can get it as a preassembled tool, or you can assemble it yourself based on our description and you can integrate it into any kind of laboratory or workshop environment. It’s ideal for microscopes, optical laboratories, manufacturing, DIY labs, etc.
 
-👩‍💻 In our repositories you can find the APIs, documentation what you need for the development and sometimes example codes, also sometimes the executables too.
+👩‍💻 In our repositories you can find the APIs, documentation that you need for the development, and sometimes example codes, also sometimes the executables.
 
 📫 How to reach us: 
+ - https://www.pistage.eu/
  - https://linktr.ee/pi_technologies
  - https://www.linkedin.com/company/%CF%80-technolgies/
  - https://discord.com/invite/q4HRZqHq
